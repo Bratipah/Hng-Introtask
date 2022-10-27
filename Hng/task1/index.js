@@ -18,4 +18,5 @@ app.get("/",(req,res)=>{
         age: (age),
         bio: (bio)
     })
+    app.use();
 });
